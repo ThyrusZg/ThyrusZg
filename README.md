@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stjepan Maric.
-- 👀 I’m interested in software development and programming.
-- 🌱 I’m currently learning python.
+- 👀 I’m interested in software development, programming and automation. Currently, I am working as Senior Automation Quality Assurance Engineer .
+- 🌱 I’m currently learning Playwright.
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me, best via e-mail: stjepan.maric1994@gmail.com  or via DM.
 
